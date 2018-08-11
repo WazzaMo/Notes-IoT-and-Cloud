@@ -24,4 +24,4 @@ else
 	echo "Could not find user volume: ${uservol}"
 fi
 
-
+echo "export PATH=\$PATH:${uservol}/bin"

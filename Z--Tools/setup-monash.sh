@@ -20,3 +20,4 @@ else
 fi
 
 
+echo "export PATH=\$PATH:${uservol}/bin"
